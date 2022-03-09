@@ -1,0 +1,3 @@
+%{
+  "word_list": {:hex, :word_list, "0.1.0", "7d4cb3f64ac8eb40f3d3cf3a0b345e8917c203bf71bcc7c8dd35a7b3f9ef414a", [:mix], [], "hexpm", "fadfb94b74d1e0a916143845f125cc73e2567d0b83ecef0686741dad77d97ff1"},
+}
